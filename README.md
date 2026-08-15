@@ -1,0 +1,1 @@
+Rani Birthday Website — responsive multi-page GitHub Pages site for 20 August 2026.
